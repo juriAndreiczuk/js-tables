@@ -8,7 +8,10 @@
   "rules": {
     "semi": "off",
     "arrow-parens": "off",
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "no-tabs": "off",
+    "require-jsdoc": "off",
+    "indent": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
